@@ -73,6 +73,14 @@ I share what I've been working on.[You can also see how AF works.](https://youtu
  - v0.1.1
     - Only Added CONTINUOUS AUTOFOCUS Mode
 
+# Youtube Links
+ 
+ https://www.youtube.com/watch?v=922BWy3OOoQ&t=47s
+ 
+ https://www.youtube.com/watch?v=kE0idrJYPII&t=0s
+ 
+ https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbE9wOXNxVWE3T3I4OVhQNnpkTTV5cy1UWUZjZ3xBQ3Jtc0tuaVBjZGttSzE5WEpPZVcxMDFQbF84Rk5LTGZCNi1rSWNQWTgyY1dQQVhIRXJxY1diOWVEZkNmT1pkS0IxbXQ5SGlUbnNKVFc1WjJGNU55eWQzVWtkYkZfbVpfMnhaR09wVWpqZEg5REFzS0EyNUt6bw&q=https%3A%2F%2Fbit.ly%2F30StEAY
+
 # License
 
  This software is written by Eric Nam and is licensed under The MIT License. Check License file for more information.    
